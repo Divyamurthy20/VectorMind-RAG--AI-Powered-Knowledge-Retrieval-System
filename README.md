@@ -38,11 +38,12 @@ These selections provide strong semantic retrieval performance with efficient st
 - HuggingFace Transformers
 - tqdm
 - Kaggle-GPU
+  
 These choices ensure:
--High semantic accuracy
--Fast vector retrieval
--Low hallucination rates
--High-quality responses
+- High semantic accuracy
+- Fast vector retrieval
+- Low hallucination rates
+- High-quality responses
 
 
 
