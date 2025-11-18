@@ -1,0 +1,8 @@
+{
+  "embedding_model": "all-mpnet-base-v2",
+  "llm_model": "mistralai/Mistral-7B-Instruct-v0.1",
+  "dataset": "m-ric/huggingface_doc",
+  "chunks_created": 12474,
+  "vector_db_type": "FAISS",
+  "distance_metric": "cosine"
+}
