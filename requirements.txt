@@ -1,0 +1,13 @@
+faiss-cpu
+sentence-transformers
+transformers
+huggingface_hub
+accelerate
+torch
+tqdm
+langchain
+numpy
+pandas
+datasets
+python
+jupyter/Kaggle
