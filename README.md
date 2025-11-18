@@ -1,5 +1,5 @@
 # VectorIQ-RAG--AI-Powered-Knowledge-Retrieval-System
-# Retrieval-Augmented Generation | FAISS Vector DB | Sentence Transformers | Mistral-7B | GPU
+## Retrieval-Augmented Generation | FAISS Vector DB | Sentence Transformers | Mistral-7B | GPU
 
 VectorIQ RAG is an enterprise-grade AI knowledge retrieval system that combines Large Language Models (LLMs) with vector search to deliver factual, context-aware, and trustworthy answers. It solves the biggest issue in AI — hallucinations — by grounding every response on real documents.
 
@@ -12,12 +12,10 @@ VectorIQ RAG is an enterprise-grade AI knowledge retrieval system that combines 
 - Modular: plug-and-play for any domain (medical, legal, finance, enterprise)
 - Designed for scalability, extensibility, and production-level RAG workflows
 
-# Component                                     
-- Embeddings
 ## Why This Project Matters
 -Modern LLMs are powerful, but they hallucinate.
 -Enter RAG — Retrieval Augmented Generation.
-# This project helps users and companies:
+## This project helps users and companies:
 -Retrieve accurate information from private datasets
 -Build AI assistants for PDFs, FAQs, policies, manuals
 -Create domain-specific ChatGPT alternatives
@@ -44,7 +42,7 @@ These selections provide strong semantic retrieval performance with efficient st
 - tqdm
 - Kaggle-GPU
 - 
-# These choices ensure:
+## These choices ensure:
 -High semantic accuracy
 -Fast vector retrieval
 -Low hallucination rates
