@@ -11,14 +11,13 @@ VectorIQ RAG is an enterprise-grade AI knowledge retrieval system that combines 
 - Designed for scalability, extensibility, and production-level RAG workflows
 
 ## Why This Project Matters
--Modern LLMs are powerful, but they hallucinate.
--Enter RAG — Retrieval Augmented Generation.
+Modern LLMs are powerful, but they hallucinate.
 ## This project helps users and companies:
--Retrieve accurate information from private datasets
--Build AI assistants for PDFs, FAQs, policies, manuals
--Create domain-specific ChatGPT alternatives
--Reduce hallucination by grounding answers in real knowledge
--Enable faster search & decision-making inside organizations
+- Retrieve accurate information from private datasets
+- Build AI assistants for PDFs, FAQs, policies, manuals
+- Create domain-specific ChatGPT alternatives
+- Reduce hallucination by grounding answers in real knowledge
+- Enable faster search & decision-making inside organizations
 
 ## Architecture Overview
 Documents → Chunking → Embeddings → FAISS DB → Retriever → Mistral-7B → Final Answer
