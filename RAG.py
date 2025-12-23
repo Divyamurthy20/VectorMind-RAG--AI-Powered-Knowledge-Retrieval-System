@@ -264,7 +264,6 @@ rag_metadata = {
 with open("rag_metadata.json", "w") as f:
     json.dump(rag_metadata, f, indent=2)
 
-print(" RAG system ready for deployment!")
 print(f" Saved files: faiss_index/, rag_metadata.json")
 
     
